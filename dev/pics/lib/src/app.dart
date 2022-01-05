@@ -40,7 +40,7 @@ void fetchImage() async{
           }, child: Icon(Icons.add),
         ),
         appBar: AppBar(
-          title: Text('RogueGM')
+          title: Text('RogueGM - TitleToStoreSomewhere - TODO')
         ),
       ),
     );
